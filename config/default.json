@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://omesh-api.j8r59.mongodb.net/omeshnigeria",
+    "jwtSecret": "omesh"
+}

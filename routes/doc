@@ -1,0 +1,98 @@
+random stuff
+
+
+companya token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjI3NmE5NTc3MTk2NTJkOWE2MDczYTk0In0sImlhdCI6MTY1MTk0Mzc2OCwiZXhwIjoxNjUyMzc1NzY4fQ.IcxHyF-FzSSdqaJnx6GRBv168oJBFz4SCPPjzXUb6o8
+{
+    "companyName": "companya",
+    "companyPhone": "222222222",
+    "companyEmail": "companya@email.com",
+    "password": "companya123"
+}
+
+
+{
+    "website":"companya.com",
+    "address1": "company a street",
+    "address2": "laogs niija",
+    "companyType": "a company",
+    "status": "active",
+    "services": "a, b, c",
+    "bio": "a is a dummy company"
+}
+
+{
+    "_id": "6276aaff34b789796f631fe0",
+    "user": "6276a957719652d9a6073a94",
+    "__v": 0,
+    "address1": "company a street",
+    "address2": "laogs niija",
+    "bio": "a is a dummy company",
+    "companyType": "a company",
+    "date": "2022-05-07T17:23:11.867Z",
+    "services": [
+        " a",
+        " b",
+        " c"
+    ],
+    "status": "active",
+    "website": "https://companya.com"
+}
+
+
+{
+    "user": "6276a957719652d9a6073a94",
+    "creditAmount": "30000",
+    "creditQuantity": "4",
+    "creditItem": "petrol",
+    "agreementLetter": "an agreement that a will payback",
+    "payback": "3rd july",
+    "_id": "6276ac3a719652d9a6073a9d",
+    "comments": [],
+    "date": "2022-05-07T17:28:26.027Z",
+    "__v": 0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+companyb token
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjI3NmE5OTg3MTk2NTJkOWE2MDczYTk3In0sImlhdCI6MTY1MTk0MzgzMiwiZXhwIjoxNjUyMzc1ODMyfQ.drtIO1kKOD6ZL0oW5TEdDWtih5Nrk7uhbkxRLuLR3wU
+{
+    "companyName": "companyb",
+    "companyPhone": "3333333",
+    "companyEmail": "companyb@email.com",
+    "password": "companyb123"
+}
+
+
+
+
+
+    "_id": "6276ab7034b789796f631ffc",
+    "user": "6276a998719652d9a6073a97",
+    "__v": 0,
+    "address1": "company b street",
+    "address2": "laogs niija",
+    "bio": "b is another dummy",
+    "companyType": "b company",
+    "date": "2022-05-07T17:25:04.198Z",
+    "services": [
+        " e",
+        " f",
+        " c"
+    ],
+    "status": "active",
+    "website": "https://companyb.com"
+}
+
